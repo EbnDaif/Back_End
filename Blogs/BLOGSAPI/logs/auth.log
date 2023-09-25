@@ -1,0 +1,145 @@
+2023-09-18 21:36:14 | INFO | {"email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-18 21:38:47 | INFO | {"email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-18 21:40:02 | INFO | {"email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-18 21:40:05 | INFO | {"email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-18 21:41:05 | INFO | {"email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-18 21:41:05 | ERROR | Illegal arguments: string, undefined
+2023-09-18 21:42:56 | INFO | {"email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-18 21:44:04 | INFO | {"email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-18 21:44:06 | INFO | {"email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-18 22:50:06 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"EbnDaif","email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-18 22:50:13 | INFO | {"email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-19 01:47:28 | INFO | {"email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-19 02:01:49 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"EbnDaif","email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-19 02:01:55 | INFO | {"email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-19 02:06:28 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"EbnDaif","email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-19 02:06:31 | INFO | {"email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-19 04:28:49 | INFO | {"email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-19 04:28:49 | ERROR | unable to login
+2023-09-19 04:29:03 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"EbnDaif","email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-19 04:29:07 | INFO | {"email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-19 19:26:16 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"EbnDaif","email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-19 19:26:17 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"EbnDaif","email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-19 19:26:22 | INFO | {"email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-19 19:30:32 | INFO | {"email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-19 19:32:21 | INFO | {"username":"3m kashef","firstname":"3m","lastname":"kashef","email":"fadodaif1@gmail.com","password":"Aa@123456"}
+2023-09-19 19:33:34 | INFO | {"email":"fadodaif1@gmail.com","password":"Aa@123456"}
+2023-09-19 19:34:27 | INFO | {"email":"fadodaif@gmail.com","password":"Aa@123456"}
+2023-09-19 19:36:41 | INFO | {"email":"fadodaif@gmail.com","password":"Aa@12345"}
+2023-09-19 19:36:41 | ERROR | unable to login
+2023-09-19 19:39:39 | INFO | {"email":"fadodaif@gmail.com","password":"Aa@12356"}
+2023-09-19 19:39:39 | ERROR | unable to login
+2023-09-19 19:39:58 | INFO | {"email":"fadodaif@gmail.com","password":"Aa@12356"}
+2023-09-19 19:39:58 | ERROR | unable to login
+2023-09-19 19:41:00 | INFO | {"email":"fadodaif@gmail.com","password":"Aa@12356"}
+2023-09-19 19:41:00 | ERROR | unable to login
+2023-09-22 20:38:55 | INFO | {"firstname":"","lastname":"","username":"","email":"","password":""}
+2023-09-22 20:38:55 | ERROR | User validation failed: password: Path `password` is required., email: Path `email` is required.
+2023-09-22 20:41:54 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"asdasd","email":"fadodaif@gmail.com","password":"A@a12345678"}
+2023-09-22 20:43:21 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"asdasd","email":"fadodaif@gmail.com","password":"A@a12345678"}
+2023-09-22 20:43:51 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"asdasd","email":"fadodaif@gmail.com","password":"A@a12345678"}
+2023-09-22 20:45:41 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"asdasd","email":"fadodaif@gmail.com","password":"A@a12345678"}
+2023-09-22 20:45:41 | ERROR | email is already taken 
+2023-09-22 20:46:00 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"asdasd","email":"fadowwwdaif@gmail.com","password":"A@a12345678"}
+2023-09-22 20:46:00 | ERROR | E11000 duplicate key error collection: project.users index: firstname_1 dup key: { firstname: "Ebn" }
+2023-09-22 20:49:07 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"asdasd","email":"fadowwwdaif@gmail.com","password":"A@a12345678"}
+2023-09-22 21:36:47 | INFO | {"firstname":"Ebns","lastname":"Daifs","username":"96ffdc33ef@boxmsail.lol","email":"fadsaodaidfs@gmail.com","password":"sadasdsaddasd@A12"}
+2023-09-22 21:38:58 | INFO | {"firstname":"Ebns","lastname":"Daifs","username":"96ffdc33ef@boxmsail.lol","email":"fadsaodaidfs@gmail.com","password":"sadasdsaddasd@A12"}
+2023-09-22 21:38:58 | ERROR | email is already taken 
+2023-09-22 21:39:16 | INFO | {"firstname":"Ebns","lastname":"Daifs","username":"96ffdc33ef@boxmsail.lol","email":"fadsaodaidfs@gmail.com","password":"sadasdsaddasd@A12"}
+2023-09-22 21:39:16 | ERROR | email is already taken 
+2023-09-22 21:39:26 | INFO | {"firstname":"Ebns","lastname":"Daifs","username":"96ffdc33ef@boxmsail.lol","email":"fadsaodaidfs@gmail.com","password":"sadasdsaddasd@A12"}
+2023-09-22 21:39:26 | ERROR | email is already taken 
+2023-09-22 21:41:19 | INFO | {"firstname":"Ebnsj","lastname":"Daifsn","username":"96ffndc33ef@boxmsail.lol","email":"fadsaodjnaidfs@gmail.com","password":"sadasdsaddasd@A12"}
+2023-09-23 04:57:53 | INFO | {"firstname":"dfdsf","lastname":"sdfsdf","username":"fdsfsd","email":"fadodaif1@gmail.com","password":"tretreA12@"}
+2023-09-23 04:57:58 | INFO | {"firstname":"dfdsf","lastname":"sdfsdf","username":"fdsfsd","email":"fadodaif1@gmail.com","password":"tretreA12@"}
+2023-09-23 04:57:58 | ERROR | email is already taken 
+2023-09-23 04:58:29 | INFO | {"firstname":"dfdsfe","lastname":"sdfsdfe","username":"fdsfsde","email":"fadodaif1e@gmail.com","password":"tretreA12@"}
+2023-09-23 05:30:31 | INFO | {"firstname":"dsadas","lastname":"asdasdas","username":"dasdasda","email":"fadodaifsadas@gmail.com","password":"sadsadAs@12"}
+2023-09-23 05:30:36 | INFO | {"firstname":"dsadas","lastname":"asdasdas","username":"dasdasda","email":"fadodaifsadas@gmail.com","password":"sadsadAs@12"}
+2023-09-23 05:30:36 | ERROR | email is already taken 
+2023-09-23 05:32:55 | INFO | {"firstname":"dsadas","lastname":"asdasdas","username":"dasdasda","email":"fadodsaifsadas@gmail.com","password":"sadsadAs@12"}
+2023-09-23 05:32:55 | ERROR | E11000 duplicate key error collection: project.users index: firstname_1 dup key: { firstname: "dsadas" }
+2023-09-23 05:33:13 | INFO | {"firstname":"dsadass","lastname":"asdasdass","username":"dasdasdsa","email":"fadodsasifsadas@gmail.com","password":"sadsadAs@1s2"}
+2023-09-23 05:34:18 | INFO | {"firstname":"dsadass","lastname":"asdasdass","username":"dasdasdsa","email":"fadodsasifsadas@gmail.com","password":"sadsadAs@1s2"}
+2023-09-23 05:34:18 | ERROR | email is already taken 
+2023-09-23 05:34:24 | INFO | {"firstname":"dsadassf","lastname":"asdasdassf","username":"dasdasdsaf","email":"fadodsasifsadas@gmail.com","password":"sadsadAs@1s2"}
+2023-09-23 05:34:24 | ERROR | email is already taken 
+2023-09-23 05:34:31 | INFO | {"firstname":"dsadassfd","lastname":"asdasdassfd","username":"dasdasdsaf","email":"fadoddsasifsadas@gmail.com","password":"sadsadAs@1s2d"}
+2023-09-23 05:34:33 | INFO | {"firstname":"dsadassfd","lastname":"asdasdassfd","username":"dasdasdsaf","email":"fadoddsasifsadas@gmail.com","password":"sadsadAs@1s2d"}
+2023-09-23 05:34:33 | ERROR | email is already taken 
+2023-09-23 05:37:01 | INFO | {"firstname":"dsadassfd","lastname":"asdasdassfd","username":"dasdasdsaf","email":"fadoddsasifsadas@gmail.com","password":"sadsadAs@1s2d"}
+2023-09-23 05:37:01 | ERROR | email is already taken 
+2023-09-23 05:40:06 | INFO | {"firstname":"dsadassfd","lastname":"asdasdassfd","username":"dasdasdsaf","email":"fadoddsasifsadas@gmail.com","password":"sadsadAs@1s2d"}
+2023-09-23 05:40:06 | ERROR | email is already taken 
+2023-09-23 05:57:22 | INFO | {"firstname":"sadasd","lastname":"dasd","username":"sadasd","email":"fadodaif@gmail.com","password":"dsadasdsad@"}
+2023-09-23 05:57:25 | INFO | {"firstname":"sadasd","lastname":"dasd","username":"sadasd","email":"fadodaif@gmail.com","password":"dsadasdsad@"}
+2023-09-23 05:57:25 | ERROR | email is already taken 
+2023-09-23 05:57:52 | INFO | {"firstname":"sadasd","lastname":"dasd","username":"sadasd","email":"fadodaswif@gmail.com","password":"dsadasdsad@"}
+2023-09-23 05:57:52 | ERROR | E11000 duplicate key error collection: project.users index: firstname_1 dup key: { firstname: "sadasd" }
+2023-09-23 05:58:06 | INFO | {"firstname":"sadasd","lastname":"dasds","username":"sadasds","email":"fasdodaswif@gmail.com","password":"dsadsasdsad@"}
+2023-09-23 05:58:06 | ERROR | E11000 duplicate key error collection: project.users index: firstname_1 dup key: { firstname: "sadasd" }
+2023-09-23 05:59:47 | INFO | {"firstname":"","lastname":"","username":"","email":"","password":""}
+2023-09-23 05:59:48 | ERROR | User validation failed: password: Path `password` is required., email: Path `email` is required.
+2023-09-23 06:00:02 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"96ffdc33ef@boxmail.lol","email":"fadodaif@gmail.com","password":"dsfdsfdsfdsf"}
+2023-09-23 06:00:02 | ERROR | email is already taken 
+2023-09-23 06:00:08 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"96ffdc33ef@boxmail.lol","email":"fadodddaif@gmail.com","password":"dsfdsfdsfdsf"}
+2023-09-23 06:00:08 | ERROR | E11000 duplicate key error collection: project.users index: firstname_1 dup key: { firstname: "Ebn" }
+2023-09-23 06:00:54 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"96ffdc33ef@boxmail.lol","email":"fadodddaif@gmail.com","password":"dsfdsfdsfdsf"}
+2023-09-23 06:04:04 | INFO | {"firstname":"Ebn1","lastname":"Daif1","username":"96ffdc33ef1@boxmail.lol","email":"fa1doddddaif@gmail.com","password":"dsfddsfdsfdsf"}
+2023-09-23 06:06:20 | INFO | {"firstname":"","lastname":"","username":"","email":"","password":""}
+2023-09-23 06:06:20 | ERROR | User validation failed: password: Path `password` is required., email: Path `email` is required.
+2023-09-23 06:07:06 | INFO | {"firstname":"","lastname":"","username":"","email":"","password":""}
+2023-09-23 06:07:06 | ERROR | User validation failed: password: Path `password` is required., email: Path `email` is required.
+2023-09-23 06:07:14 | INFO | {"firstname":"","lastname":"","username":"","email":"","password":""}
+2023-09-23 06:07:14 | ERROR | User validation failed: password: Path `password` is required., email: Path `email` is required.
+2023-09-23 06:07:15 | INFO | {"firstname":"","lastname":"","username":"","email":"","password":""}
+2023-09-23 06:07:15 | ERROR | User validation failed: password: Path `password` is required., email: Path `email` is required.
+2023-09-23 06:07:38 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"sdasad","email":"fadodaif@gmail.com","password":"sadasdasd"}
+2023-09-23 06:07:53 | INFO | {"firstname":"sadsad","lastname":"sdasdasd","username":"asdsadsadasf","email":"fadodaisadf@gmail.com","password":"sdasdasdsad"}
+2023-09-23 06:28:51 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"fadoeg90","email":"fadodaif@gmail.com","password":"Asdfqwe@qweewdf+12"}
+2023-09-23 06:28:51 | ERROR | email is already taken 
+2023-09-23 06:29:31 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"fadoeg90","email":"fadodaif@gmail.com","password":"Asdfqwe@qweewdf+12"}
+2023-09-23 06:29:32 | ERROR | email is already taken 
+2023-09-23 06:29:34 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"fadoeg90","email":"fadodaif@gmail.com","password":"Asdfqwe@qweewdf+12"}
+2023-09-23 06:29:34 | ERROR | email is already taken 
+2023-09-23 06:29:35 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"fadoeg90","email":"fadodaif@gmail.com","password":"Asdfqwe@qweewdf+12"}
+2023-09-23 06:29:35 | ERROR | email is already taken 
+2023-09-23 06:29:47 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"fadoeg90","email":"fadodaaif@gmail.com","password":"Asdfqwe@qweewdf+12"}
+2023-09-23 20:23:14 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"dsfkldsfk","email":"fadodaif@gmail.com","password":";ldsakdl;sak;d@12aA"}
+2023-09-23 20:23:14 | ERROR | email is already taken 
+2023-09-23 20:23:19 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"dsfkldsfk","email":"fadodawif@gmail.com","password":";ldsakdl;sak;d@12aA"}
+2023-09-23 20:58:05 | INFO | {"firstname":"Ebn","lastname":"Daif","username":"fadoeg90","email":"fadodaif@gmail.com","password":"Pw@01140971284"}
+2023-09-23 21:00:33 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140971284"}
+2023-09-23 21:01:59 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140971284"}
+2023-09-23 21:40:31 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140871284"}
+2023-09-23 21:40:31 | ERROR | unable to login
+2023-09-23 21:41:12 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140971284"}
+2023-09-23 22:53:09 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140971284"}
+2023-09-23 23:03:58 | INFO | {"email":"fadodaif@gmail.com","password":"Pwlkjkljkllkjkl"}
+2023-09-23 23:03:58 | ERROR | unable to login
+2023-09-23 23:04:00 | INFO | {"email":"fadodaif@gmail.com","password":"Pwlkjkljkllkjkl"}
+2023-09-23 23:04:00 | ERROR | unable to login
+2023-09-23 23:04:18 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140971284"}
+2023-09-24 06:50:27 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140971284"}
+2023-09-24 07:49:07 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140971284"}
+2023-09-24 07:50:16 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140971284"}
+2023-09-24 08:12:06 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140971284"}
+2023-09-24 11:22:08 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140971284"}
+2023-09-24 11:36:27 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140971284"}
+2023-09-24 20:19:06 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140971284"}
+2023-09-24 20:28:21 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140871284"}
+2023-09-24 20:28:21 | ERROR | unable to login
+2023-09-24 20:28:29 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140871284"}
+2023-09-24 20:28:29 | ERROR | unable to login
+2023-09-24 20:28:37 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140971284"}
+2023-09-24 20:34:20 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140971284"}
+2023-09-24 21:33:35 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140971284"}
+2023-09-24 21:40:44 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140971284"}
+2023-09-24 22:08:47 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140971284"}
+2023-09-25 02:17:47 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140971284"}
+2023-09-25 04:23:49 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140971284"}
+2023-09-25 04:29:38 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140971284"}
+2023-09-25 04:35:24 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140971284"}
+2023-09-25 05:39:14 | INFO | {"firstname":"Ebn1","lastname":"Daif2","username":"fadoeg9011","email":"fadodaif111@gmail.com","password":"Q12345678@q"}
+2023-09-25 05:39:29 | INFO | {"email":"fadodaif@gmail.com","password":"Pw@01140971284"}
